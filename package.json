@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "helfer.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node helfer.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
