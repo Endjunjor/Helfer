@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === '-join') {
+    if (message.content === 'join') {
         message.reply('einen augenblick');
     	voice = await client.join_voice_channel(Musik chat)
   	}
